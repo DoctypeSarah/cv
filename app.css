@@ -1,0 +1,22 @@
+body {
+    background-color: inherit;
+    margin: 2em;
+    margin-left: 3rem;
+    font-family: Avenir;
+}
+
+.name {
+    margin-left: 1rem;
+    font-size: 3rem;
+    font-weight: 800;
+    font-family: Futura;
+}
+
+table {
+    border: 10px;
+    background-color: lightpink;
+    padding: 10px;
+}
+body {
+    text-align:center;
+}

@@ -1,0 +1,41 @@
+body {
+    margin: 2em;
+    font-family: Avenir;
+}
+
+form>label {
+    padding: 10px;
+}
+
+textarea {
+    background-color: lightgray;
+    color: blue;
+    border-radius: 5px;
+}
+
+textarea:hover {
+    background-color: lightyellow;
+    color: black;
+}
+body {
+    text-align:center;
+}
+form {
+    padding:10px;
+}
+input {
+    background-color:lightgray;
+    border-radius:5px;
+}
+input:hover {
+    background-color:lightyellow;
+    color:black;
+}
+select {
+    background-color:lightgray;
+    border-radius:5px
+}
+select:hover {
+    background-color:lightyellow;
+    
+}
